@@ -26,9 +26,9 @@ export default function RootLayout({ children }: PropsWithChildren) {
             />
 
             <nav className={"ml-auto flex gap-4"}>
-              <Link href="/">Home</Link>
+              <Link href="/">Dashboard</Link>
               <Link
-                href="https://github.com/clerk/organizations-demo"
+                href="https://phoenicx.com/dashboard"
                 target={"_blank"}
               >
                 Github
